@@ -1,0 +1,21 @@
+#paragraph{
+    background-color:cyan;
+    border: solid 3px black;
+    display:block;
+    width:15cm;
+    margin: auto;
+
+}
+#mainheader{
+    background-color:cyan;
+    border: solid 3px black;
+    display:block;
+    margin: auto;
+    width: 20cm;
+    text-align:center;
+}
+.picture {
+    width: 128px;
+    display:block;
+    margin: auto;
+}   
